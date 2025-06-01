@@ -13,4 +13,10 @@ print("MULTIPLICATION", mul)
 
 div = a / b
 print("DIVISION",div)
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/d94ec642-1c43-45d1-826c-85f6a4d4f181)
